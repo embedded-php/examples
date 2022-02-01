@@ -4,14 +4,10 @@ This project carries code samples for different types of displays and sensors, u
 
 ## Available Examples
 
-### Displays
-
-- [OLED: SSD1322 Driver](Displays/Ssd1322.php)
-
 ### Sensors
 
-- [HCSR04: Ultrasonic ranging sensor](Sensors/HcSr04.php)
+- [HC-SR04: Ultrasonic Distance Sensor](Sensors/HcSr04/)
 
 ## License
 
-This library is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).

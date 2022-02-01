@@ -4,7 +4,7 @@ declare(strict_types = 1);
 require_once __DIR__ . '/../vendor/autoload.php';
 
 /**
- * This example measures distance using the HC-SR04 Ultrassonic sensor.
+ * This example measures distance using the HC-SR04: Ultrasonic Distance Sensor.
  * Requires ext-gpio (https://github.com/embedded-php/ext-gpio) to be installed.
  *
  * Assembly instructions:
